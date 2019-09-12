@@ -6,7 +6,12 @@
           <option name="url" value="http://bitbucket.hyperoptic.com" />
           <option name="userName" value="dobrivoje.prtenjak" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/divyanshub024/AndroidDraw.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\dev\AndroidStudioProjects" />
   </component>
 </application>
